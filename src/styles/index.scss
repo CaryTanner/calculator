@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behaviour: smooth;
+    
+  }
+  body {
+    display: grid;
+    justify-items: center;
+    background-color: #e7e3ce;
+    
+  }
+  
+  #calculator {
+   margin-top: 100px;
+    max-width: 220px;
+   background-color: black;
+   padding: 5px; 
+    font-family: monospace;
+    font-size: 20px;
+  }
+  
+  #button-field {
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px;
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "AC AC divide multiply"
+      "one two three subtract"
+      "four five six add"
+      "seven eight nine equals"
+      "zero zero decimal equals";
+    grid-gap: 3px;
+    
+  }
+  
+   #display, #work-field {
+    border: 1px solid black;
+    min-height: 30px; 
+    text-align: right;
+    margin-bottom: 2px;
+    background-color: lightgrey; 
+     word-break: break-all;
+     padding: 2px;
+  }
+  
+  .number, .operator  {
+    background-color: grey;
+    border: 1px solid #634e51;
+    padding: 5px;
+      
+  }
+      #clear {
+        padding: 5px;
+        border: 1px solid #634e51;
+        background-color: #e87c57;
+        grid-area: AC;
+      }
+      #one {
+        grid-area: one;
+      }
+      #two {
+        grid-area: two;
+      }
+      #three {
+        grid-area: three;
+      }
+      #four {
+        grid-area: four;
+      }
+      #five {
+        grid-area: five;
+      }
+      #six {
+        grid-area: six;
+      }
+      #seven {
+        grid-area: seven;
+      }
+      #eight{
+        grid-area: eight;
+      }
+      #nine {
+        grid-area: nine;
+      }
+      #zero {
+        grid-area: zero;
+      }
+      #decimal {
+        grid-area: decimal;
+      }
+      #divide {
+        grid-area: divide;
+      }
+      #multiply {
+  
+        grid-area: multiply;
+  
+      }
+      #equals{
+        grid-area: equals;
+        background-color: #e87c57;
+      }
+      #subtract {
+        grid-area: subtract;
+      }
+      #add {
+        grid-area: add;
+      }
+  
+  #by-line{
+    position: relative;
+    
+    text-align: center;
+    bottom: -100px;
+    font-family: monospace;
+  }
