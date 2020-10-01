@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-"homepage": "carytanner.com/calculator/",
+"homepage": "carytanner.github.io/calculator/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
