@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/carytanner.com/calculator/static/css/main.a2496018.chunk.css",
-    "main.js": "/carytanner.com/calculator/static/js/main.ee8796c2.chunk.js",
-    "main.js.map": "/carytanner.com/calculator/static/js/main.ee8796c2.chunk.js.map",
-    "runtime-main.js": "/carytanner.com/calculator/static/js/runtime-main.ee6049b3.js",
-    "runtime-main.js.map": "/carytanner.com/calculator/static/js/runtime-main.ee6049b3.js.map",
-    "static/js/2.25c527ff.chunk.js": "/carytanner.com/calculator/static/js/2.25c527ff.chunk.js",
-    "static/js/2.25c527ff.chunk.js.map": "/carytanner.com/calculator/static/js/2.25c527ff.chunk.js.map",
-    "index.html": "/carytanner.com/calculator/index.html",
-    "precache-manifest.c20494e9a7e9a45160076a21b2e8e3e1.js": "/carytanner.com/calculator/precache-manifest.c20494e9a7e9a45160076a21b2e8e3e1.js",
-    "service-worker.js": "/carytanner.com/calculator/service-worker.js",
-    "static/css/main.a2496018.chunk.css.map": "/carytanner.com/calculator/static/css/main.a2496018.chunk.css.map",
-    "static/js/2.25c527ff.chunk.js.LICENSE.txt": "/carytanner.com/calculator/static/js/2.25c527ff.chunk.js.LICENSE.txt"
+    "main.css": "/carytanner.github.io/calculator/static/css/main.a2496018.chunk.css",
+    "main.js": "/carytanner.github.io/calculator/static/js/main.ee8796c2.chunk.js",
+    "main.js.map": "/carytanner.github.io/calculator/static/js/main.ee8796c2.chunk.js.map",
+    "runtime-main.js": "/carytanner.github.io/calculator/static/js/runtime-main.6f7be59b.js",
+    "runtime-main.js.map": "/carytanner.github.io/calculator/static/js/runtime-main.6f7be59b.js.map",
+    "static/js/2.25c527ff.chunk.js": "/carytanner.github.io/calculator/static/js/2.25c527ff.chunk.js",
+    "static/js/2.25c527ff.chunk.js.map": "/carytanner.github.io/calculator/static/js/2.25c527ff.chunk.js.map",
+    "index.html": "/carytanner.github.io/calculator/index.html",
+    "precache-manifest.2ee851dc8510f879d184a06526706ed4.js": "/carytanner.github.io/calculator/precache-manifest.2ee851dc8510f879d184a06526706ed4.js",
+    "service-worker.js": "/carytanner.github.io/calculator/service-worker.js",
+    "static/css/main.a2496018.chunk.css.map": "/carytanner.github.io/calculator/static/css/main.a2496018.chunk.css.map",
+    "static/js/2.25c527ff.chunk.js.LICENSE.txt": "/carytanner.github.io/calculator/static/js/2.25c527ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee6049b3.js",
+    "static/js/runtime-main.6f7be59b.js",
     "static/js/2.25c527ff.chunk.js",
     "static/css/main.a2496018.chunk.css",
     "static/js/main.ee8796c2.chunk.js"
